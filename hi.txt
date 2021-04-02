@@ -1,1 +1,21 @@
 hohoho
+
+## Importing
+```javascript
+import localForage from 'localforage';
+import { extendPrototype } from 'localforage-getitems';
+
+extendPrototype(localforage);
+```## Importing
+```javascript
+import localForage from 'localforage';
+import { extendPrototype } from 'localforage-getitems';
+
+extendPrototype(localforage);
+```## Importing
+```javascript
+import localForage from 'localforage';
+import { extendPrototype } from 'localforage-getitems';
+
+extendPrototype(localforage);
+```

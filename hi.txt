@@ -19,3 +19,6 @@ import { extendPrototype } from 'localforage-getitems';
 
 extendPrototype(localforage);
 ```
+
+
+i made new branch, that is develop

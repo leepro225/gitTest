@@ -22,3 +22,10 @@ extendPrototype(localforage);
 
 
 i made new branch, that is develop
+
+
+hi, my name is tester
+
+// master is new.
+
+// no this. is develop
